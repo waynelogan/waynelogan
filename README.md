@@ -1,5 +1,5 @@
 # 👋 Hi there, I am Wayne Logan. 😊
-and I am a **fullstack JavaScript web developer**
+I am a **fullstack JavaScript web developer**
 
 📚 My tech stask is MERN
   - MongoDB
@@ -9,9 +9,7 @@ and I am a **fullstack JavaScript web developer**
  
 Beyond JavaScript, I am competent in the following tools
   - TypeScript
-  - Jest
   - SASS
-  - Tailwind CSS
   - Git (Duuuh! I'm using GitHub 😂)
   - GitHub actions
   - CI/CD
@@ -24,7 +22,7 @@ I am currently curating my GitHub to showcase my developer skillset and land a j
 
 📫 If you are a recruiter, fellow freelancer or opensource developer **feel welcome to reach out** to me at loganamollo@gmail.com
 
-I am an avid learner and ardent problem solver willing to commit (git pun intended) to a job from which I hope to learn and grow.
+I am an avid learner and ardent problem solver willing to commit (git pun) to a (part time) job from which I hope to learn and grow.
 
 <!---
 loganamollo/loganamollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
