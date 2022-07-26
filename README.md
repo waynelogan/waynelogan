@@ -1,11 +1,11 @@
 # 👋 Hi there, I am Wayne Logan. 😊
 I am a **fullstack JavaScript web developer**
 
-📚 My tech stask is MERN
-  - MongoDB
-  - Express JS
+📚 My tech stask is:
+  - Firebase
   - React JS
   - Next JS
+  - React native
  
 Beyond JavaScript, I am competent in the following tools
   - TypeScript
