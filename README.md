@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **embedded C and embedded Rust for the AVR microcontroller family**
 
-- 👨‍💻 All of my projects are available at [https://github.com/loganamollo](https://github.com/loganamollo)
+- 👨‍💻 All of my projects are available at [https://github.com/waynelogan](https://github.com/waynelogan)
 
 - 📝 I regularly write articles on [https://dev.to/loganamollo](https://dev.to/loganamollo)
 
