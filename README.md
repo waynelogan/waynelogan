@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wayne Logan</h1>
-<h3 align="center">A passionate web and embedded developer from Kenya</h3>
+<h3 align="center">A full-stack (frontend heavy) web developer and designer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
