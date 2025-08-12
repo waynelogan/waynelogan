@@ -10,6 +10,13 @@ Design at it's most fundamental level is utilitarian, and that is my philosophy 
 
 ---
 
+## 💼 Experience
+- **Full Stack Engineer – [Mednow Africa](https://mednowafrica.com) (2024)**  
+- **Full Stack Developer – [Gowi Odera](https://gowi.netlify.app) (2024)**  
+- **Full Stack Developer – [Badilico](https://badilico.com) (2023)**  
+
+---
+
 ## 🛠 Tech Stack
 
 ### **Frontend**
@@ -43,13 +50,6 @@ Design at it's most fundamental level is utilitarian, and that is my philosophy 
   <img src="https://skillicons.dev/icons?i=figma" height="40" />
   <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" height="40" title="Spline"/>
 </p>
-
----
-
-## 💼 Experience
-- **Full Stack Engineer – [Mednow Africa](https://mednowafrica.com) (2024)**  
-- **Full Stack Developer – [Gowi Odera](https://gowi.netlify.app) (2024)**  
-- **Full Stack Developer – [Badilico](https://badilico.com) (2023)**  
 
 ---
 
